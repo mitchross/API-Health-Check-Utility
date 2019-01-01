@@ -1,0 +1,105 @@
+MacC02TL3SSHF1R:apitest 2014690$ node apitest.js 
+0 s, 0.058 ms - start request 0 
+December 4th 2018, 1:44:15 pm
+1 s, 590.576 ms - request 0 succeeded
+December 4th 2018, 1:44:17 pm
+0 s, 415.205 ms - start request 1
+December 4th 2018, 1:44:17 pm
+10 s, 555.522 ms - stop request 1 due to failure
+December 4th 2018, 1:44:28 pm
+1 s, 455.866 ms - start request 2
+December 4th 2018, 1:44:29 pm
+1 s, 412.287 ms - request 2 succeeded
+December 4th 2018, 1:44:31 pm
+0 s, 593.682 ms - start request 3
+December 4th 2018, 1:44:31 pm
+1 s, 198.206 ms - request 3 succeeded
+December 4th 2018, 1:44:32 pm
+0 s, 803.880 ms - start request 4
+December 4th 2018, 1:44:33 pm
+1 s, 57.882 ms - request 4 succeeded
+December 4th 2018, 1:44:34 pm
+0 s, 945.136 ms - start request 5
+December 4th 2018, 1:44:35 pm
+0 s, 877.361 ms - request 5 succeeded
+December 4th 2018, 1:44:36 pm
+1 s, 125.756 ms - start request 6
+December 4th 2018, 1:44:37 pm
+1 s, 985.918 ms - request 6 succeeded
+December 4th 2018, 1:44:39 pm
+0 s, 15.525 ms - start request 7
+December 4th 2018, 1:44:39 pm
+10 s, 578.195 ms - stop request 7 due to failure
+December 4th 2018, 1:44:50 pm
+1 s, 440.433 ms - start request 8
+December 4th 2018, 1:44:51 pm
+0 s, 826.301 ms - request 8 succeeded
+December 4th 2018, 1:44:52 pm
+1 s, 177.706 ms - start request 9
+December 4th 2018, 1:44:53 pm
+0 s, 725.886 ms - request 9 succeeded
+December 4th 2018, 1:44:54 pm
+1 s, 274.237 ms - start request 10
+December 4th 2018, 1:44:55 pm
+10 s, 590.338 ms - stop request 10 due to failure
+December 4th 2018, 1:45:06 pm
+1 s, 425.365 ms - start request 11
+December 4th 2018, 1:45:07 pm
+10 s, 555.818 ms - stop request 11 due to failure
+December 4th 2018, 1:45:18 pm
+1 s, 455.649 ms - start request 12
+December 4th 2018, 1:45:19 pm
+1 s, 62.133 ms - request 12 succeeded
+December 4th 2018, 1:45:20 pm
+0 s, 940.181 ms - start request 13
+December 4th 2018, 1:45:21 pm
+1 s, 214.363 ms - request 13 succeeded
+December 4th 2018, 1:45:22 pm
+0 s, 787.603 ms - start request 14
+December 4th 2018, 1:45:23 pm
+1 s, 370.470 ms - request 14 succeeded
+December 4th 2018, 1:45:25 pm
+0 s, 633.370 ms - start request 15
+December 4th 2018, 1:45:25 pm
+0 s, 854.462 ms - request 15 succeeded
+December 4th 2018, 1:45:26 pm
+1 s, 147.728 ms - start request 16
+December 4th 2018, 1:45:27 pm
+1 s, 44.644 ms - request 16 succeeded
+December 4th 2018, 1:45:28 pm
+0 s, 956.527 ms - start request 17
+December 4th 2018, 1:45:29 pm
+10 s, 367.273 ms - stop request 17 due to failure
+December 4th 2018, 1:45:40 pm
+1 s, 648.442 ms - start request 18
+December 4th 2018, 1:45:41 pm
+0 s, 860.022 ms - request 18 succeeded
+December 4th 2018, 1:45:42 pm
+1 s, 140.571 ms - start request 19
+December 4th 2018, 1:45:43 pm
+0 s, 989.033 ms - request 19 succeeded
+December 4th 2018, 1:45:44 pm
+1 s, 14.847 ms - start request 20
+December 4th 2018, 1:45:45 pm
+0 s, 663.339 ms - request 20 succeeded
+December 4th 2018, 1:45:46 pm
+1 s, 341.444 ms - start request 21
+December 4th 2018, 1:45:47 pm
+10 s, 251.890 ms - stop request 21 due to failure
+December 4th 2018, 1:45:58 pm
+1 s, 763.202 ms - start request 22
+December 4th 2018, 1:45:59 pm
+0 s, 974.733 ms - request 22 succeeded
+December 4th 2018, 1:46:00 pm
+1 s, 27.721 ms - start request 23
+December 4th 2018, 1:46:01 pm
+1 s, 95.854 ms - request 23 succeeded
+December 4th 2018, 1:46:02 pm
+0 s, 904.503 ms - start request 24
+December 4th 2018, 1:46:03 pm
+0 s, 710.439 ms - request 24 succeeded
+December 4th 2018, 1:46:04 pm
+1 s, 294.825 ms - start request 25
+December 4th 2018, 1:46:05 pm
+10 s, 332.173 ms - stop request 25 due to failure
+December 4th 2018, 1:46:16 pm
