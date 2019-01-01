@@ -5,7 +5,11 @@ Recently at the company I worked for we experienced a very strange bug with our 
 
 Is there tools that do this already? Yes. Was there much better ways to tackle this problem? Yes. 
 
-I love to program and this was a fun exercise.
+I love to program and this was a fun exercise. The code let me debug a bit more and read some of the network exception messages, such as SSL handshake errors. You can print this out in the utility if you want.
+
+##Using the Tool
+
+I used Postman to export the Restful call as "code" in Postman. Look in the code for "//Taken from Postman -> Code -> NodeJS". Replace that body of code with your own API call you want to test. I stripped out the info I was using to test for obvious reasons. 
 
 ## Sample Output
 
