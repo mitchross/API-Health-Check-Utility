@@ -3,6 +3,10 @@ This is a small health check utility I built to check health of an API to see if
 
 Recently at the company I worked for we experienced a very strange bug with our companies F5 load balancer that caused *intermittent* API service failures (timeouts/not reachable ).  During our debugging, I built this tool to automatically call the Restful web service on a loop to check its health and look for patterns.
 
+Is there tools that do this already? Yes. Was there much better ways to tackle this problem? Yes. 
+
+I love to program and this was a fun exercise.
+
 ## Sample Output
 
     node apitest.js 
